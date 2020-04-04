@@ -6,6 +6,7 @@ print(dir(IP.layers))
 print(dir(IP.layers))
 print(dir(IP.layers))
 print(dir(IP.layers))
+print('malasa')
 # ping_one_reply = sr1(all.IP(dst = '192.168.18.2')/all.ICMP(),timeout = 1)
 # ping_one_reply.show()
 
